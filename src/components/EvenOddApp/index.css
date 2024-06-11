@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.cont {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  width: 70vw;
+  background: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 15px;
+}
+button{
+  padding: 7px;
+}
+
